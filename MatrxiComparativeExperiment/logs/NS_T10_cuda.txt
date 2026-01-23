@@ -1,0 +1,9 @@
+Newton¨CSchulz Benchmark Results
+Device      : cuda
+Iterations  : 10
+
+Name   Shape     Num   AvgTime(s)   AvgError     FLOPs
+------------------------------------------------------------
+A      128x128   100   0.000465     nan          4.219e+07
+B      256x256   100   0.000662     nan          3.365e+08
+C      512x512   100   0.000719     nan          2.688e+09

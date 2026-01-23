@@ -1,0 +1,9 @@
+Newton¨CSchulz Benchmark Results
+Device      : cpu
+Iterations  : 10
+
+Name   Shape     Num   AvgTime(s)   AvgError     FLOPs
+------------------------------------------------------------
+A      128x128   5     0.001219     5.506e-01    8.389e+07
+B      256x256   10    0.002858     5.865e-01    6.711e+08
+C      512x512   3     0.019017     6.236e-01    5.369e+09
