@@ -1,8 +1,10 @@
 # Unified-Newton-Schulz-Orthogonality
 ## Train UNSO 
 ```
-python
+python TrainUSCO.py
 ```
 ## Compare Different Methods by Curve
+```
 
+```
 ## Compare Different Methods by Matrix
